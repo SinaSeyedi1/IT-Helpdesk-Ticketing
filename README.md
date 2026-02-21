@@ -38,15 +38,15 @@ Workflow covered:
 - Customer communication practices
 
 
-![Jira Service Desk Dashboard](01_Jira_Service_Desk_Dashboard.png)
+![Jira Dashboard](jira-service-management/01_Jira_Service_Desk_Dashboard.png)
 
-![Incident Creation - Outlook Login Issue](02_Incident_Creation_Outlook_Login_Issue.png)
+![Incident Creation](jira-service-management/02_Incident_Creation_Outlook_Login_Issue.png)
 
-![Incident Classification and Prioritisation](03_Incident_Classification_and_Prioritisation.png)
+![Incident Classification](jira-service-management/03_Incident_Classification_and_Prioritisation.png)
 
-![Incident Investigation and Troubleshooting](04_Incident_Investigation_and_Troubleshooting.png)
+![Investigation](jira-service-management/04_Incident_Investigation_and_Troubleshooting.png)
 
-![Incident Resolution and Closure](05_Incident_Resolution_and_Closure.png)
+![Resolution](jira-service-management/05_Incident_Resolution_and_Closure.png)
 
 
 
