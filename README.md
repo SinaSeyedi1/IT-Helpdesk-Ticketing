@@ -36,3 +36,21 @@ Workflow covered:
 - Ticket prioritisation and classification
 - SLA awareness
 - Customer communication practices
+
+
+## Evidence
+
+### 1. Service Desk Dashboard
+![Dashboard](./01_Jira_Service_Desk_Dashboard.png)
+
+### 2. Incident Creation
+![Creation](./02_Incident_Creation_Outlook_Login_Issue.png)
+
+### 3. Classification and Prioritisation
+![Classification](./03_Incident_Classification_and_Prioritisation.png)
+
+### 4. Investigation and Troubleshooting
+![Investigation](./04_Incident_Investigation_and_Troubleshooting.png)
+
+### 5. Resolution and Closure
+![Resolution](./05_Incident_Resolution_and_Closure.png)
