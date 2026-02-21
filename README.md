@@ -38,16 +38,19 @@ Workflow covered:
 - Customer communication practices
 
 
-### Evidence
+### 1. Jira Service Management Dashboard
+![Jira Dashboard](jira-service-management/01_Jira_Service_Desk_Dashboard.png)
 
-![Dashboard](jira-service-management/01_Jira_Service_Desk_Dashboard.png)
-
+### 2. Incident Ticket Creation – Outlook Login Issue
 ![Incident Created](jira-service-management/02_Incident_Creation_Outlook_Login_Issue.png)
 
-![Classification](jira-service-management/03_Incident_Classification_and_Prioritisation.png)
+### 3. Incident Classification and Prioritisation
+![Incident Classification](jira-service-management/03_Incident_Classification_and_Prioritisation.png)
 
-![Investigation](jira-service-management/04_Incident_Investigation_and_Troubleshooting.png)
+### 4. Investigation and Troubleshooting Notes
+![Incident Investigation](jira-service-management/04_Incident_Investigation_and_Troubleshooting.png)
 
-![Resolution](jira-service-management/05_Incident_Resolution_and_Closure.png)
+### 5. Resolution and Ticket Closure
+![Incident Resolution](jira-service-management/05_Incident_Resolution_and_Closure.png)
 
 
