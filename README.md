@@ -8,7 +8,7 @@ The goal of this project is to simulate real-world Level 1 IT Support ticket wor
 
 ## Project Structure
 
-01 – Jira Service Management  
+Jira Service Management  
 Simulated incident lifecycle from ticket creation to resolution.
 
 ---
